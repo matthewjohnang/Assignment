@@ -1,0 +1,11 @@
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.csprojAssemblyReference.cache
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfoInputs.cache
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfo.cs
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.deps.json
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.json
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.dev.json
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.dll
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.pdb
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.dll
+F:\comIT\Assignment\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.pdb

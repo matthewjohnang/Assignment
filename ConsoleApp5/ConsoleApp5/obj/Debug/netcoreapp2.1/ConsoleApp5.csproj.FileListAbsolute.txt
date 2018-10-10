@@ -1,0 +1,10 @@
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.AssemblyInfoInputs.cache
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.AssemblyInfo.cs
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.deps.json
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.runtimeconfig.json
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.runtimeconfig.dev.json
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.dll
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.pdb
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.dll
+F:\comIT\Assignment\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.pdb

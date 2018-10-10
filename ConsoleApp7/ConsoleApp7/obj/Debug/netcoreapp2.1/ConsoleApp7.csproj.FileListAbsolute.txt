@@ -1,0 +1,10 @@
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.deps.json
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.runtimeconfig.json
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.runtimeconfig.dev.json
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.dll
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.pdb
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.csproj.CoreCompileInputs.cache
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.AssemblyInfoInputs.cache
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.AssemblyInfo.cs
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.dll
+F:\comIT\Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.pdb
