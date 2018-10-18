@@ -1,0 +1,11 @@
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\bin\Debug\netcoreapp2.1\TypesAndConversion1.deps.json
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\bin\Debug\netcoreapp2.1\TypesAndConversion1.runtimeconfig.json
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\bin\Debug\netcoreapp2.1\TypesAndConversion1.runtimeconfig.dev.json
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\bin\Debug\netcoreapp2.1\TypesAndConversion1.dll
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\bin\Debug\netcoreapp2.1\TypesAndConversion1.pdb
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\obj\Debug\netcoreapp2.1\TypesAndConversion1.csprojAssemblyReference.cache
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\obj\Debug\netcoreapp2.1\TypesAndConversion1.csproj.CoreCompileInputs.cache
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\obj\Debug\netcoreapp2.1\TypesAndConversion1.AssemblyInfoInputs.cache
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\obj\Debug\netcoreapp2.1\TypesAndConversion1.AssemblyInfo.cs
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\obj\Debug\netcoreapp2.1\TypesAndConversion1.dll
+C:\Users\Ang\source\repos\TypesAndConversion1\TypesAndConversion1\obj\Debug\netcoreapp2.1\TypesAndConversion1.pdb
